@@ -1,3 +1,6 @@
 [submodule "mlrose"]
 	path = mlrose
 	url = git@github.com:hiive/mlrose.git
+[submodule "pyperch"]
+	path = pyperch
+	url = git@github-metahaus:jlm429/pyperch.git
